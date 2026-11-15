@@ -1,8 +1,3 @@
-# desejohellavagga
-Este é um trabalho de faculdade. Programação.
-
-
-
 # O Desejo de Hella Vagga
 
 **Aluno:** [Kauã Lenddon Araújo dos Santos]  
@@ -158,6 +153,14 @@ O jogo possui **3 fases** com dificuldade progressiva. Em cada casa de luta são
 * Compilador GCC instalado.
 * O código segue o padrão ANSI C / C99 e utiliza exclusivamente as bibliotecas padrão `<stdio.h>`, `<stdlib.h>`, `<string.h>`, `<time.h>` e `<math.h>`, sem persistência em arquivos externos.
 
+---
+
+## Vídeo de demonstração
+[Assista no youtube] (https://youtu.be/EZU8GOFW-zg?si=Erd2vWcMYufIlZkg)
+
+---
+
 ```bash
 gcc vagga.c -o vagga
 ./vagga
+
