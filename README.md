@@ -161,6 +161,6 @@ O jogo possui **3 fases** com dificuldade progressiva. Em cada casa de luta são
 ---
 
 ```bash
-gcc vagga.c -o vagga
+gcc vagga.c -o vagga -lm
 ./vagga
 
